@@ -7,14 +7,14 @@ The Library is a Java application that allows users to manage a library.
 The application is built using Java 17, Maven, Docker, MySQL, JUnit, Jacoco, Mockito and Mermaid.
 
 <p align = "left">
-<img src="Doc/img/library.png" width=30%>
+<img src="Library/doc/img/library.png" width=30%>
 
 ---
 
 ## Design Document
 
 <p align = "left">
-<img src="Doc/img/uml.png" width=30%>
+<img src="Library/doc/img/uml.png" width=30%>
 
 [Design Document](Doc/DESIGN.md)
 
@@ -23,14 +23,14 @@ The application is built using Java 17, Maven, Docker, MySQL, JUnit, Jacoco, Moc
 ## Tests
 
 <p align = "left">
-<img src="Doc/img/tests.png" width=30%>
+<img src="Library/doc/img/tests.png" width=30%>
 
 ---
 
 ## How it looks
 
 <p align = "left">
-<img src="Doc/img/menu.png" width=30%> <img src="Doc/img/users.png" width=30%> <img src="Doc/img/tables.png" width=30%>
+<img src="Library/doc/img/menu.png" width=30%> <img src="Library/doc/img/users.png" width=30%> <img src="Library/doc/img/tables.png" width=30%>
 
 ---
 
