@@ -70,3 +70,7 @@ def add_new_user():
                     )
                     conn.commit()
 ```
+
+---
+
+Back to [Main README](../README.md)
