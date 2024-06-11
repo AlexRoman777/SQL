@@ -2,11 +2,18 @@
 
 Welcome to my SQL playground!
 
+## Projects
+
+- [Landlord](Landlord/README.md)
+- [Library](Library/README.md)
+- [DevOps23](DevOps23/README.md)
+
 ## Table of Contents
 
 - [SQL](#sql)
+  - [Projects](#projects)
   - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
+  - [SQL Introduction](#sql-introduction)
   - [Data Types](#data-types)
   - [Operators](#operators)
   - [Queries](#queries)
@@ -17,7 +24,7 @@ Welcome to my SQL playground!
 
 ---
 
-## Introduction
+## SQL Introduction
 
 SQL (Structured Query Language) is a standardized programming language that's used to manage relational databases and perform various operations on the data in them. Initially created in the 1970s, SQL is regularly used by database administrators, as well as by developers writing data integration scripts and data analysts looking to set up and run analytical queries.
 

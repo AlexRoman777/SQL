@@ -93,3 +93,7 @@ List what the rents will be next calendar month for all unexpired leases.
 
 Report with SQL commands for selection, with short explanatory texts if necessary.
 For a grade of G, tasks 1-3 and 4.1-4.2 must be performed in a broadly acceptable manner.
+
+---
+
+Back to [Main README](../README.md)
